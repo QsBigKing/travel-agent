@@ -1,0 +1,112 @@
+[
+  {
+    "parent": "B0LDOR0J4P",
+    "address": "文瀛湖街道永固街玖街时光里1号楼11层",
+    "business": {
+      "keytag": "舒适型",
+      "rating": "4.6",
+      "tel": "15534250555",
+      "rectag": "舒适型"
+    },
+    "distance": "564",
+    "pcode": "140000",
+    "adcode": "140213",
+    "pname": "山西省",
+    "cityname": "大同市",
+    "type": "住宿服务;宾馆酒店;宾馆酒店",
+    "typecode": "100100",
+    "adname": "平城区",
+    "citycode": "0352",
+    "name": "美曼酒店(大同南站博物馆店)",
+    "location": "113.358630,40.089027",
+    "id": "B0LAZLY0C0"
+  },
+  {
+    "parent": "B0LR0XPVQI",
+    "address": "永固街玖街时光里小区东楼408室",
+    "business": {
+      "keytag": "民宿",
+      "rating": "4.8",
+      "tel": "15903528188",
+      "rectag": "民宿"
+    },
+    "distance": "613",
+    "pcode": "140000",
+    "adcode": "140213",
+    "pname": "山西省",
+    "cityname": "大同市",
+    "type": "住宿服务;住宿服务相关;住宿服务相关",
+    "typecode": "100000",
+    "adname": "平城区",
+    "citycode": "0352",
+    "name": "云顶电竞民宿",
+    "location": "113.358025,40.089000",
+    "id": "B0KRR5V5N7"
+  },
+  {
+    "parent": "B0L1G7BBKQ",
+    "address": "玖街时光里B座11层",
+    "business": {
+      "keytag": "旅馆",
+      "rating": "4.5",
+      "tel": "13934804666;18803521944",
+      "rectag": "旅馆"
+    },
+    "distance": "641",
+    "pcode": "140000",
+    "adcode": "140213",
+    "pname": "山西省",
+    "cityname": "大同市",
+    "type": "住宿服务;旅馆招待所;旅馆招待所",
+    "typecode": "100200",
+    "adname": "平城区",
+    "citycode": "0352",
+    "name": "玖居驿馆(大同大学店)",
+    "location": "113.357769,40.088801",
+    "id": "B0KG65NMGO"
+  },
+  {
+    "parent": "",
+    "address": "玖街时光里2-902",
+    "business": {
+      "keytag": "民宿",
+      "rating": "4.9",
+      "tel": "13593010560",
+      "rectag": "民宿"
+    },
+    "distance": "622",
+    "pcode": "140000",
+    "adcode": "140213",
+    "pname": "山西省",
+    "cityname": "大同市",
+    "type": "住宿服务;住宿服务相关;住宿服务相关",
+    "typecode": "100000",
+    "adname": "平城区",
+    "citycode": "0352",
+    "name": "微风轻语民宿",
+    "location": "113.357948,40.088919",
+    "id": "B0K2TDO8YC"
+  },
+  {
+    "parent": "",
+    "address": "天祥街239号",
+    "business": {
+      "keytag": "高档型",
+      "rating": "4.4",
+      "tel": "0352-3333332;0352-3333337",
+      "rectag": "高档型"
+    },
+    "distance": "746",
+    "pcode": "140000",
+    "adcode": "140213",
+    "pname": "山西省",
+    "cityname": "大同市",
+    "type": "住宿服务;宾馆酒店;宾馆酒店",
+    "typecode": "100100",
+    "adname": "平城区",
+    "citycode": "0352",
+    "name": "大同平上舍酒店",
+    "location": "113.358966,40.085875",
+    "id": "B0HDOZ6XHQ"
+  }
+]
