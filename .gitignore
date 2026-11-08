@@ -11,7 +11,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # 运行时产物
-db/*.db
+db/
 .langgraph_api/
 *.log
 
