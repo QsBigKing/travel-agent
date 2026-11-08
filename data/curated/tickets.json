@@ -63,7 +63,9 @@
           "平遥古城墙"
         ],
         "updated_at": "2026-11-08",
-        "source": "参考价"
+        "source": "参考价",
+        "ticket_group": "平遥通票",
+        "group_price": 130
       },
       "平遥县衙博物馆": {
         "ticket": 0,
@@ -75,19 +77,25 @@
           "平遥古城-平遥县衙"
         ],
         "updated_at": "2026-11-08",
-        "source": "参考价"
+        "source": "参考价",
+        "ticket_group": "平遥通票",
+        "group_price": 130
       },
       "平遥文庙": {
         "ticket": 0,
         "note": "含在古城通票内",
         "updated_at": "2026-11-08",
-        "source": "参考价"
+        "source": "参考价",
+        "ticket_group": "平遥通票",
+        "group_price": 130
       },
       "市楼": {
         "ticket": 0,
         "note": "含在古城通票内",
         "updated_at": "2026-11-08",
-        "source": "参考价"
+        "source": "参考价",
+        "ticket_group": "平遥通票",
+        "group_price": 130
       },
       "协同庆": {
         "ticket": 0,
@@ -97,7 +105,9 @@
           "协同庆票号"
         ],
         "updated_at": "2026-11-08",
-        "source": "参考价"
+        "source": "参考价",
+        "ticket_group": "平遥通票",
+        "group_price": 130
       },
       "双林寺": {
         "ticket": 35,
@@ -118,19 +128,25 @@
         "ticket": 0,
         "note": "含在古城通票内",
         "updated_at": "2026-11-08",
-        "source": "参考价"
+        "source": "参考价",
+        "ticket_group": "平遥通票",
+        "group_price": 130
       },
       "平遥古城-清虚观": {
         "ticket": 0,
         "note": "含在古城通票内",
         "updated_at": "2026-11-08",
-        "source": "参考价"
+        "source": "参考价",
+        "ticket_group": "平遥通票",
+        "group_price": 130
       },
       "平遥古城-拱极门": {
         "ticket": 0,
         "note": "含在古城通票内",
         "updated_at": "2026-11-08",
-        "source": "参考价"
+        "source": "参考价",
+        "ticket_group": "平遥通票",
+        "group_price": 130
       },
       "平遥古城灯光秀": {
         "ticket": null,

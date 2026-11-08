@@ -82,6 +82,10 @@ def apply(city: str, pois: list) -> int:
             continue
         if item.get("ticket") is not None:
             poi.ticket = float(item["ticket"])
+        if item.get("ticket_group"):
+            poi.ticket_group = item["ticket_group"]
+        if item.get("group_price") is not None:
+            poi.group_price = float(item["group_price"])
         if item.get("booking_required") is not None:
             poi.booking_required = bool(item["booking_required"])
         if item.get("open_hours"):
