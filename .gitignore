@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 密钥：绝对不要提交
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 运行时产物
+db/*.db
+.langgraph_api/
+*.log
+
+# 备份与系统文件
+*.bak
+*.bak2
+.DS_Store
+Thumbs.db
+
+# 工具缓存
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
